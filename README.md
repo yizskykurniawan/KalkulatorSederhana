@@ -1,5 +1,5 @@
 # Kalkulator Sederhana
-Kalkulator sederhana berbasis bahasa C# pada Microsoft Visual Studio.
+Kalkulator sederhana berbasis C# pada Microsoft Visual Studio.
 
 Fitur:
 * Penjumlahan
