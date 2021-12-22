@@ -1,2 +1,16 @@
-# SimpleCalculator
-Basic code for create simple calculator with C#
+# Kalkulator Sederhana
+Kode dasar untuk membuat kalkulator sederhana basis koding menggunakan C# pada Microsoft Visual Studio.
+
+Fitur:
+
+• Penjumlahan
+
+• Pengurangan
+
+• Perkalian
+
+• Pembagian
+
+• Akar
+
+• Pangkat
