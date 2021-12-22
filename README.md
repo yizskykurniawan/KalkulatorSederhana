@@ -2,15 +2,9 @@
 Kode dasar untuk membuat kalkulator sederhana basis koding menggunakan C# pada Microsoft Visual Studio.
 
 Fitur:
-
-• Penjumlahan
-
-• Pengurangan
-
-• Perkalian
-
-• Pembagian
-
-• Akar
-
-• Pangkat
+* Penjumlahan
+* Pengurangan
+* Perkalian
+* Pembagian
+* Akar
+* Pangkat
