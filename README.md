@@ -1,5 +1,5 @@
 # Kalkulator Sederhana
-Kode dasar untuk membuat kalkulator sederhana basis koding menggunakan C# pada Microsoft Visual Studio.
+Kalkulator sederhana berbasis bahasa C# pada Microsoft Visual Studio.
 
 Fitur:
 * Penjumlahan
